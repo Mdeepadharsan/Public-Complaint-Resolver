@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">Public Complaint Resolver</string>
+    <string name="PCR">PCR</string>
+    <string name="public_choice">Public</string>
+    <string name="officer_choice">Officer</string>
+    <string name="login">Log In</string>
+    <string name="name">Enter Your Name</string>
+    <string name="password">Enter Your Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="oemail">Enter Your Office Mail</string>
+    <string name="email">Enter Your Email ID</string>
+    <string name="confirm_password">Enter a Confirm Password</string>
+    <string name="phone">Enter a Mobile Number</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="others">Others</string>
+    <string name="age">Enter Your Age</string>
+    <string name="street">Street Name</string>
+    <string name="area">Area Name</string>
+    <string name="city">City Name</string>
+    <string name="pincode">Pincode</string>
+    <string name="occupation">Enter Your Occupation</string>
+    <string name="aadhar_no">Enter Your Aadhar Number</string>
+    <string name="account_verification">Account Verification page</string>
+    <string name="sname">Your Name</string>
+    <string name="mail">Your Mail id</string>
+    <string name="link">Resend Link</string>
+    <string name="slink">Send Link</string>
+    <string name="verfication_complete">Verification Complete</string>
+    <string name="welcome">Hello User_name</string>
+    <string name="aadhar_xx">Your aadhar_no:xxxxxxxx0123</string>
+    <string name="create_complaint">Create Complaint</string>
+    <string name="track_complaint">Track Complaint Status</string>
+    <string name="raised_complaints">Raised Complaints</string>
+    <string name="verification_requests">View Requests</string>
+    <string name="Complaint">New Complaint Page</string>
+    <string name="Complaint_description">Enter a Complaint Description</string>
+    <string-array name="category_array">
+        <item>Solid Waste Department</item>
+        <item>Water Supply and UGD System(Under Ground Drainage)</item>
+        <item>Road and Footpath</item>
+        <item>General Complaints</item>
+        <item>Public Health</item>
+    </string-array>
+    <string-array name="solid_waste_department">
+        <item>Dustbins not cleared</item>
+        <item>Garbage Vehicle not Arrived</item>
+        <item>Sweeping not done</item>
+        <item>Removal of Debris</item>
+        <item>Broken Bin</item>
+        <item>Shifting of garbage Bin Place</item>
+        <item>Dog Control , Fish Market cleaning daily</item>
+        <item>Death Animals</item>
+        <item>Burning of Garbage waste in open space</item>
+        <item>Drainage Clearance Work</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="water_supply">
+        <item>Overflow of Sewerage of Storm Water</item>
+        <item>No Water Supply</item>
+        <item>Open Manholes or drain</item>
+        <item>New water supply connection</item>
+        <item>Leakages/Damages of Water Line</item>
+        <item>Repairs of storm water drain</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="road">
+        <item>Road Damage</item>
+        <item>Stagnant Water on the road</item>
+        <item>Debris removal / Construction material in road</item>
+        <item>Road Occupancy by materials/vehicle</item>
+        <item>Repairs to the damage road/footpath</item>
+        <item>Request for provide footpath</item>
+        <item>Request for removal of shops in the road / footpath</item>
+        <item>Complaints regarding shop occupancy in road(illegal)</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="general">
+        <item>Issue of Birth Certificate</item>
+        <item>Issue of Death Certificate</item>
+        <item>All types of Registration certificate related complaints</item>
+        <item>Unauthorized Advertisement Boards</item>
+        <item>Complaint regarding Community Hall</item>
+        <item>Complaint related poor quality of work</item>
+        <item>Encroachment of Public Property</item>
+        <item>Unauthorized occupants area</item>
+        <item>Removal of fallen Tree/wall</item>
+        <item>Complaints regarding park / playground</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="public_health">
+        <item>Mosquito Menance</item>
+        <item>Street Dogs</item>
+        <item>stary cattle/pigs</item>
+        <item>public Health/Dengue/Malaria/Gastro Enteritis</item>
+        <item>Complaint illegal drainage of swage to open site</item>
+        <item>Complaint biomedical waste removal</item>
+        <item>Complaint about corporation hospitals</item>
+        <item>Complaint about unclean public toilet</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="zone">
+        <item>Suramangalam Zonal</item>
+        <item>Hasthampatty Zonal,</item>
+        <item>Ammapet Zonal</item>
+        <item>Kondalampatty Zonal</item>
+    </string-array>
+    <string name="email_txt">Email_id</string>
+    <string name="complaint_status1">Just Applied</string>
+    <string name="location">Enter a location details</string>
+    <string name="track">Complaint Process Status</string>
+    <string name="complaint_choice">Select Complaint Id</string>
+    <string name="complaint_status2">Complaint On Progress</string>
+    <string name="complaint_status3">Request Verification Sent</string>
+    <string name="complaint_status4">Solved</string>
+    <string name="raised_complaint">Raised Complaints</string>
+    <string name="view_complaint">View Details</string>
+    <string name="c1">Complaint Category</string>
+    <string name="c2">Complaint Type</string>
+    <string name="c3">Complaint Description</string>
+    <string name="c4">Location Details</string>
+    <string name="view_requests">View Requests</string>
+    <string name="solved">Solved</string>
+    <string name="unsolved">Not Solved</string>
+    <string name="inbox_msg">Inbox Complaints</string>
+    <string name="update_status">Update Status</string>
+    <string name="request_verify">Request Verification</string>
+    <string name="no_msg">No Inbox Messages</string>
+    <string name="no_complaints">There is no Complaints</string>
+    <string name="zone_details">Hello</string>
+    <string name="loc">Status</string>
+    <string name="ids">Complaint_id</string>
+</resources>
