@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "167441614047",
+    "firebase_url": "https://public-complaint-resolver-default-rtdb.firebaseio.com",
+    "project_id": "public-complaint-resolver",
+    "storage_bucket": "public-complaint-resolver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167441614047:android:1379893d0e3728a6c0156a",
+        "android_client_info": {
+          "package_name": "com.example.publiccomplaintresolver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167441614047-dclj7iqor3o6kiir66gb0kmhkajd3v71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrMTw_WwWcV73kH57cKtTPGbkWwQ9cBco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167441614047-dclj7iqor3o6kiir66gb0kmhkajd3v71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
